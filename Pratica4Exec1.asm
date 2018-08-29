@@ -1,4 +1,4 @@
-# Exemplo de implementação e chamada de procedimentos.
+# Prática 4. Exercício 1. Procedimento que retorna o tamanho de uma string. 
 
 .data
 str: .asciiz "Hello World!"
