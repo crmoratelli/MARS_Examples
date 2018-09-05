@@ -1,4 +1,4 @@
-# Procedimento que calcula a multiplicação de dois número através de somas sucessivas. 
+# Prática 3. Exercício 1. Implementação com procedimento. Calcula a multiplicação de dois número através de somas sucessivas. 
 
 .data
 msg1: .asciiz "Digite o multiplicador: "
